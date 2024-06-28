@@ -1,4 +1,4 @@
-// Hi hello there
+// Hi hello there this is very fun
 
 #include <stdint.h>
 #include <stdbool.h>
